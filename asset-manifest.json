@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/my-personal-website/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/my-personal-website/static/js/main.7bbf2a24.chunk.js",
-    "main.js.map": "/my-personal-website/static/js/main.7bbf2a24.chunk.js.map",
+    "main.css": "/my-personal-website/static/css/main.04c50230.chunk.css",
+    "main.js": "/my-personal-website/static/js/main.f5063de4.chunk.js",
+    "main.js.map": "/my-personal-website/static/js/main.f5063de4.chunk.js.map",
     "runtime-main.js": "/my-personal-website/static/js/runtime-main.c81f7439.js",
     "runtime-main.js.map": "/my-personal-website/static/js/runtime-main.c81f7439.js.map",
     "static/css/2.e243012a.chunk.css": "/my-personal-website/static/css/2.e243012a.chunk.css",
-    "static/js/2.5e7f0129.chunk.js": "/my-personal-website/static/js/2.5e7f0129.chunk.js",
-    "static/js/2.5e7f0129.chunk.js.map": "/my-personal-website/static/js/2.5e7f0129.chunk.js.map",
+    "static/js/2.e82c8354.chunk.js": "/my-personal-website/static/js/2.e82c8354.chunk.js",
+    "static/js/2.e82c8354.chunk.js.map": "/my-personal-website/static/js/2.e82c8354.chunk.js.map",
     "index.html": "/my-personal-website/index.html",
     "static/css/2.e243012a.chunk.css.map": "/my-personal-website/static/css/2.e243012a.chunk.css.map",
-    "static/css/main.9d5b29c0.chunk.css.map": "/my-personal-website/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.5e7f0129.chunk.js.LICENSE.txt": "/my-personal-website/static/js/2.5e7f0129.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/my-personal-website/static/media/logo.6ce24c58.svg"
+    "static/css/main.04c50230.chunk.css.map": "/my-personal-website/static/css/main.04c50230.chunk.css.map",
+    "static/js/2.e82c8354.chunk.js.LICENSE.txt": "/my-personal-website/static/js/2.e82c8354.chunk.js.LICENSE.txt",
+    "static/media/html5-logo.3de4a8c5.png": "/my-personal-website/static/media/html5-logo.3de4a8c5.png",
+    "static/media/laptop.7f302e0f.jpg": "/my-personal-website/static/media/laptop.7f302e0f.jpg",
+    "static/media/my-photo.9b9e12bc.jpg": "/my-personal-website/static/media/my-photo.9b9e12bc.jpg",
+    "static/media/react-logo.73ac128a.png": "/my-personal-website/static/media/react-logo.73ac128a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c81f7439.js",
     "static/css/2.e243012a.chunk.css",
-    "static/js/2.5e7f0129.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.7bbf2a24.chunk.js"
+    "static/js/2.e82c8354.chunk.js",
+    "static/css/main.04c50230.chunk.css",
+    "static/js/main.f5063de4.chunk.js"
   ]
 }
